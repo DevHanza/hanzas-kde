@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="720">
+  <name>Krohnkite</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>anametologin</author>
+  <homepage>https://store.kde.org/p/2144146</homepage>
+  <licence></licence>
+  <version>0.9.9.2</version>
+  <rating>82</rating>
+  <downloads>44236</downloads>
+  <installedfile>/home/hansana/.local/share/kwin/scripts/krohnkite/</installedfile>
+  <id>2144146</id>
+  <releasedate>2026-02-09</releasedate>
+  <summary>&lt;p>A dynamic tiling extension for KWin6.&lt;br />&lt;br />Kr&amp;ouml;hnkite is mainly inspired by dwm from suckless folks, and aims to be &amp;quot;simple&amp;quot; in both development and usage.&lt;br />&lt;br />Features&lt;br />------------&lt;br />&lt;em> DWM-like window tiling&lt;br />- Dynamically tile windows, rather than manually placing each.&lt;br />- Floating windows&lt;br />&lt;/em> Multiple Layout Support&lt;br />- Tiling layout&lt;br />- Monocle layout&lt;br />- Desktop-friendly layouts (Spread, Stair)&lt;br />* Integrates well into KWin features, including:&lt;br />- Activities&lt;br />- Virtual desktops&lt;br />- Window switcher&lt;br />- Fullscreen (KWin can fullscreen any window)&lt;br />- Minimization&lt;br />&lt;br />Look at me&lt;br />------------&lt;br />1. Delete old or unused  KWin shortcuts with reboot after it:&lt;br />qdbus org.kde.kglobalaccel /component/kwin org.kde.kglobalaccel.Component.cleanUp&lt;br />2. If you have a gap or vice versa you have gray(white etc) rectangle that means that there is a program with size 1x1 that have to be filtered by title or other ways. Make sure that the following programs, if you have them, have been added to the filter:&lt;br />      2.1 xwaylandvideobridge&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/77/69/99/2144146/krohnkite1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/77/69/99/2144146/krohnkite1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1MzQyNzcxNCwibyI6IjEiLCJzIjoiZDI5MDUxNTU5MjYwMjRkMDkzYzE1MzBjYjRkMTU3N2RhYWYxMDU1ZmQwMTZmMjA1NWJjNTE2NjIxYjIxN2I2YzkwN2VlZWUwNTE2ZGY1MjU3ZjhhOTRlM2VkOTI4YWQwNzIwNDFmZGM2YjVlNzA4YzY4NDhlMTEwNmYzZjEzY2QiLCJ0IjoxNzcwOTExMDc5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTAzLjIxLjE2NS4yNTQifQ.boRVPKzxq4B4nCOhsW5bslnyf8-9FQEWipsXlYHfQIU/krohnkite-0.9.9.2-1d7fd74.kwinscript</payload>
+  <tags>kwin,linux,mit-license,tiling,unix,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="720">
+  <name>Polonium</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zeroxoneafour</author>
+  <homepage>https://store.kde.org/p/2140417</homepage>
+  <licence></licence>
+  <version>v1.0rc</version>
+  <rating>68</rating>
+  <downloads>24646</downloads>
+  <installedfile>/home/hansana/.local/share/kwin/scripts/polonium/</installedfile>
+  <id>2140417</id>
+  <releasedate>2024-03-30</releasedate>
+  <summary>&lt;p>Polonium window tiling for Plasma 6. Currently in beta!&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/70/84/14/2140417/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/70/84/14/2140417/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMTgzMjQ1MCwibyI6IjEiLCJzIjoiYTc2ZWFjZmVhZTNkZjVmYTVjNjJlYzE0Y2M4MjljODUxZWQ1YzFmYTZhODMwODU3NTIyOTI5NzIxZjUyMWYxM2QzZDY2ZmE3N2FkMWJjZTY2YWU5NDI4NjNlNjVmZjM2M2E3OTljNDc0NDYxMmQ3Mjc3MGM2NzA2MTQxOTA5ZGEiLCJ0IjoxNzY3ODkwMDI4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTAzLjIxLjE2Ni43MyJ9.KQ7zwZegCIPhSRWTQXsS2-PUDWf0p4Ebl86Kc7DrhMI/polonium.kwinscript</payload>
+  <tags>linux,mit-license,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

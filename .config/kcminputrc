@@ -1,0 +1,7 @@
+[Libinput][10182][3395][DELL0AD9:00 27C6:0D43 Mouse]
+NaturalScroll=false
+ScrollFactor=2
+
+[Libinput][10182][3395][DELL0AD9:00 27C6:0D43 Touchpad]
+NaturalScroll=true
+PointerAcceleration=0.300

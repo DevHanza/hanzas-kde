@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# REPO="$HOME/Documents/hanzas-kde"
+REPO="$PWD"
+
+
+rsync -av --delete \
+--exclude="$HOME/.config/google-chrome" \
+--exclude="$HOME/.config/Code" \
+--exclude="$HOME/.config/VSCodium" \
+--exclude="$HOME/.config/MongoDB Compass" \
+--exclude="$HOME/.config/Postman" \
+--exclude="$HOME/.config/yay" \
+--exclude="$HOME/.config/htop" \
+--exclude="$HOME/.local/share/TelegramDesktop" \
+--exclude="$HOME/.local/share/vlc" \
+--exclude="$HOME/.local/share/org.localsend.localsend_app" \
+"$HOME/.config"* \
+"$HOME/.local/share" \
+"$REPO/"

@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-a89f18d1-d9af-4299-8fd4-c73a405c4287]
+ordering=preferred://browser,applications:mongodb-compass.desktop,applications:postman.desktop,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:btop.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:mongodb-compass.desktop,applications:postman.desktop,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:btop.desktop

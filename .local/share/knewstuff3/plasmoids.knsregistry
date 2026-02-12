@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="706">
+  <name>Window Tittle Fork</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2147882</homepage>
+  <licence></licence>
+  <version>0.7.1-2</version>
+  <rating>50</rating>
+  <downloads>18503</downloads>
+  <installedfile>/home/hansana/.local/share/plasma/plasmoids/org.kde.windowtitle.Fork/</installedfile>
+  <id>2147882</id>
+  <releasedate>2026-01-11</releasedate>
+  <summary>&lt;p>fork of work by dhruv8sh and based mainly on the work of psifidotos.&lt;br />&lt;br />This project will remain active as long as the user dhruv8sh, to whom I give credit for porting this widget to plasma 6, makes some necessary changes for me in this widget,&lt;br />&lt;br />There are only two differences with the dhruv8sh widget,&lt;br />&lt;br />1. You can edit the default text.&lt;br />2. can be installed from discover&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2147882/captura-de-pantalla-20240418-143423.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2147882/captura-de-pantalla-20240418-143423.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NTQ1MzcxOCwibyI6IjEiLCJzIjoiMjZmMTU1ZjRhNDA1M2Q0YTk0ZGUyMTZlYTllNGI1OWNiMmRhYjQ1YTQ5MTM1ZWM4NDNiN2RmOTMzZjFmNDlmOWE5YWM1ZDNlMWQ3MGU4YmJkYjdhMjI1MmMxYTYzYWUwYTdmMTc5N2Q0YzdjMmEwZDZjY2EyNzBhZWUyOGY3MzQiLCJ0IjoxNzY4ODg3MDM1LCJzdGZwIjpudWxsLCJzdGlwIjoiNDUuMTIxLjg4LjIzMCJ9.Amu_I47QdYl6lfsp3hVI571zE3VDqeHp-qmqNkERKzE/org.kde.windowtitle.Fork.tar.xz</payload>
+  <tags>plasma,plasma##majorversion=6,unix,extension,kde,linux,agplv3,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Clear Clock</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>qewer</author>
+  <homepage>https://store.kde.org/p/2147871</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>65</rating>
+  <downloads>19590</downloads>
+  <installedfile>/home/hansana/.local/share/plasma/plasmoids/org.kde.plasma.clearclock/</installedfile>
+  <id>2147871</id>
+  <releasedate>2024-04-19</releasedate>
+  <summary>&lt;p>Clear Clock is a simple but configurable KDE plasmoid/widget for displaying date and time. Made for desktop use, won't work on panels/docks.&lt;br />&lt;br />Please open an issue in the GitHub repo (&lt;a href="https://github.com/qewer33/ClearClock">https://github.com/qewer33/ClearClock&lt;/a>) for bugs or feature requests.&lt;br />If you like Clear Clock and my other projects, consider donating to me on Ko-fi! &lt;a href="https://ko-fi.com/qewer">https://ko-fi.com/qewer&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/61/20/66/2147871/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/61/20/66/2147871/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMzQ2NzE1NywibyI6IjEiLCJzIjoiMjk1OWU1NTBjNjMwYTczMWU2OWJiMmYwMGY1NThkY2ZmYTUxM2E3ZWY4NmE4Y2I5NzkxOWZhMTY0NTQ2ZWViZmQzNzhiM2QzYjg5OTA2MWVlMmY2ZjgyYmRlZmI0ZjM5ZTNhZTIwNDExOGI0NjliOTYwNTg4NzEzNmI3N2JmNmEiLCJ0IjoxNzY3NjgzMDA4LCJzdGZwIjpudWxsLCJzdGlwIjoiNDUuMTIxLjkxLjE4In0.NAi6af8r47xNL4s0mDEznqsogOLSaDQG28HpkO7r--U/Clear-Clock-v05.tar.gz</payload>
+  <tags>modern,minimalism,minimalist,kde,linux,clocks,clock,extension,gplv3,unix,widget,original-product,plasma,plasma##majorversion=6</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
