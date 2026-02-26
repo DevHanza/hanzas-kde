@@ -12,6 +12,12 @@ rsync -av --delete --mkpath \
 --exclude='yay/' \
 --exclude='htop/' \
 --exclude='vlc/' \
+--exclude='kate/' \
+--exclude='go/' \
+# System
+--exclude='session/' \
+--exclude='kdedefaults/' \
+--exclude='libaccounts-glib/' \
 "$HOME/.config/" \
 "$REPO/.config/"
 
@@ -24,10 +30,12 @@ rsync -av --delete --mkpath \
 --exclude='klipper/' \
 --exclude='libkunitconversion/' \ 
 --exclude='kactivitymanagerd/' \ 
+# Packages
+--exclude='flatpak/' \
+--exclude='CMakeTools/' \
 # Applications 
 --exclude='Trash/' \
 --exclude='plasma-systemmonitor/' \
---exclude='flatpak/' \
 --exclude='TelegramDesktop/' \
 --exclude='kwrite/' \
 --exclude='kate/' \
