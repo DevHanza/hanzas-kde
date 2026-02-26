@@ -18,16 +18,19 @@ rsync -av --delete --mkpath \
 
 # Sync .local/share
 rsync -av --delete --mkpath \
---exclude='Trash/' \
 --exclude='sddm/' \
---exclude='flatpak/' \
+--exclude='baloo/' \ 
 --exclude='kwalletd/' \
 --exclude='klipper/' \
 --exclude='libkunitconversion/' \ 
 --exclude='kactivitymanagerd/' \ 
---exclude='kwrite/' \
+# Applications 
+--exclude='Trash/' \
 --exclude='plasma-systemmonitor/' \
+--exclude='flatpak/' \
 --exclude='TelegramDesktop/' \
+--exclude='kwrite/' \
+--exclude='kate/' \
 --exclude='vlc/' \
 --exclude='org.localsend.localsend_app/' \
 "$HOME/.local/share/" \
