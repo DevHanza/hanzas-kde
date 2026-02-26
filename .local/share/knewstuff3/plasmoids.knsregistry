@@ -2,6 +2,26 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="706">
+  <name>KDE Material You Colors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>luis-bocanegra</author>
+  <homepage>https://store.kde.org/p/2136963</homepage>
+  <licence></licence>
+  <version>0.6.0</version>
+  <rating>50</rating>
+  <downloads>10971</downloads>
+  <installedfile>/home/hansana/.local/share/plasma/plasmoids/luisbocanegra.kdematerialyou.colors/</installedfile>
+  <id>2136963</id>
+  <releasedate>2025-11-07</releasedate>
+  <summary>&lt;p>Widget for KDE Material You Colors, an automatic color scheme Generator from your wallpaper for the Plasma Desktop, Konsole, pywal.&lt;br />&lt;br />Support for all Wallpaper plugins (color, image, slideshows, animated, Plasma 5.26+ dark wallpaper variants)&lt;br />Change icon themes&lt;br />Make titlebar darker to match specified applications like terminals, code editors and other programs themed by pywal&lt;br />Follow Plasma Material You Dark/Light change to work with theme schedulers like Koi&lt;br />&lt;br />Themeable programs&lt;br />&lt;br />Konsole color scheme with opacity control&lt;br />Pywal support to theme other programs using Material You Colors&lt;br />Basic KSyntaxHighlighting support (Kate, KWrite, KDevelop...)&lt;br />&lt;br />Theming options&lt;br />&lt;br />Alternative Material You color selection if the wallpaper provides more than one&lt;br />Use your favorite color to generate Material You color schemes&lt;br />Custom colors list used for konsole/pywal&lt;br />Custom amount for background color tint&lt;br />Dark/light Color schemes (Plasma and pywal/konsole independently)&lt;br />Set a script that will be executed on start or wallpaper/dark/light/settings change&lt;br />Configuration file&lt;br />&lt;br />Check &lt;a href="https://github.com/luisbocanegra/kde-material-you-colors">https://github.com/luisbocanegra/kde-material-you-colors&lt;/a> for the backend installation instructions.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2136963/material-you-plasmoid.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2136963/material-you-plasmoid.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MjU1MzIzMiwibyI6IjEiLCJzIjoiY2M4ZmIwNjdjNGM4NjRhYWFlMDRhNzYyY2RjNWE3OGIwOGI3OTZjNGYzNDhjNmM1ZTc4ODhmNmNkOTE4YzJkMWFlYTM2YTAzN2M5OTFlZGEzMjZlMmZmM2FjYTRkYWMxYTE1NWE3YjRhZDJlMzBlZTA1YWM5NTE1MDhiNGYyZGUiLCJ0IjoxNzcxNzc5NzYzLCJzdGZwIjpudWxsLCJzdGlwIjoiMTAzLjIxLjE2Ni43OCJ9.I6N1ioZxF3id1L8axYBbajvYqM3dQOaTdxBlEU9HyiM/plasmoid-kde-material-you-v0.6.0.plasmoid</payload>
+  <tags>linux,material-you,kde,color-scheme,extension,gplv3,original-product,plasma,plasma##majorversion=6,python,pywal,unix,wallpaper,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
   <name>Window Tittle Fork</name>
   <providerid>api.kde-look.org</providerid>
   <author>zayronXIO</author>

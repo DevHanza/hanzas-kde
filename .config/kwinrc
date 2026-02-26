@@ -1,10 +1,9 @@
 [Desktops]
-Id_1=67c7b06e-d49d-43ea-8a2f-6d1a1c363b35
-Id_2=d8f64175-72fc-4f37-a9f4-805630e72ef2
-Id_3=b04e942c-e0e3-482e-8c43-7697daabab7e
-Id_4=9e74848c-3e91-490b-bf3a-0b5918673eb2
-Id_5=c02b44ed-f1ab-449c-995c-f5c61265f3ea
-Name_5=New Desktop
+Id_1=b04e942c-e0e3-482e-8c43-7697daabab7e
+Id_2=9e74848c-3e91-490b-bf3a-0b5918673eb2
+Id_3=c02b44ed-f1ab-449c-995c-f5c61265f3ea
+Id_4=d3cc05a1-c883-46da-a47c-5b0f7da578b7
+Id_5=a8db86e0-e090-4b98-a9d4-043f184ae9a1
 Number=5
 Rows=1
 
@@ -31,9 +30,6 @@ screenGapLeft=8
 screenGapRight=8
 screenGapTop=8
 
-[Tiling]
-padding=4
-
 [Tiling][52574ef2-4489-4fb4-8242-e30754622110][e1107f50-230b-4619-9e10-61fef59669c8]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -44,19 +40,33 @@ tiles={"layoutDirection":"floating","tiles":[{"height":0.25000000000000133,"widt
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][9e74848c-3e91-490b-bf3a-0b5918673eb2][e1107f50-230b-4619-9e10-61fef59669c8]
+padding=4
 tiles={"layoutDirection":"floating","tiles":[]}
+
+[Tiling][a8db86e0-e090-4b98-a9d4-043f184ae9a1][e1107f50-230b-4619-9e10-61fef59669c8]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5},{"width":0.5}]}
 
 [Tiling][b04e942c-e0e3-482e-8c43-7697daabab7e][e1107f50-230b-4619-9e10-61fef59669c8]
-tiles={"layoutDirection":"floating","tiles":[]}
+padding=4
+tiles={"layoutDirection":"floating","tiles":[{"height":0.2500000000000001,"width":0.30000000000000016,"x":0.6912760416666671,"y":0.7027777777777774}]}
 
 [Tiling][c02b44ed-f1ab-449c-995c-f5c61265f3ea][e1107f50-230b-4619-9e10-61fef59669c8]
-tiles={"layoutDirection":"floating","tiles":[]}
+padding=4
+tiles={"layoutDirection":"floating","tiles":[{"height":0.3229166666666671,"width":0.30000000000000004,"x":0.6958333333333334,"y":0.6668981481481479}]}
+
+[Tiling][d3cc05a1-c883-46da-a47c-5b0f7da578b7][e1107f50-230b-4619-9e10-61fef59669c8]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d8f64175-72fc-4f37-a9f4-805630e72ef2][e1107f50-230b-4619-9e10-61fef59669c8]
-tiles={"layoutDirection":"floating","tiles":[{"height":0.24999999999999944,"width":0.2999999999999997,"x":0.5558593750000002,"y":0.566203703703704}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5},{"layoutDirection":"floating","tiles":[{"height":0.3078703703703707,"width":0.30000000000000004,"x":0.6665364583333327,"y":0.6229166666666665}],"width":0.5}]}
 
 [Tiling][df9f3766-0a1d-4660-9c38-6621d9a2a0af][e1107f50-230b-4619-9e10-61fef59669c8]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Xwayland]
 Scale=1.25
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae.v2

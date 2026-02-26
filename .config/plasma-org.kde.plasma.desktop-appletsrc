@@ -22,15 +22,17 @@ DialogHeight=630
 DialogWidth=810
 
 [Containments][1][Wallpaper][luisbocanegra.smart.video.wallpaper.reborn][General]
-VideoUrls=[{"filename":"file:///home/hansana/Videos/dark-clouds-and-mountain-rain-wallpaperwaves-com.mp4","enabled":true,"duration":0,"customDuration":0,"playbackRate":0,"loop":false}]
+FillMode=0
+LastVideo=file:///home/hansana/Videos/Live Wallpapers/winter-water-stream-forest-moewalls-com.mp4
+LastVideoPosition=5850
+VideoUrls=[{"filename":"file:///home/hansana/Videos/Live Wallpapers/small-house-in-forest.1920x1080.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/Samurai Warrior wallpaper HD.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/rain-drops-on-window.1920x1080.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/Pink Lamboghini.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/Nissan Skyline Pink Petals Live Wallpaper HD.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/mylivewallpapers-com-Old-Wooden-Jetty-4K.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/green-forest-river-train-moewalls-com.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/evening-drive-and-windmills.1920x1080.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/dark-clouds-and-mountain-rain-wallpaperwaves-com.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/d836d91f3d_japanese-traditional-temple-mount-fuji_wallsflow-com.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/13241760_3840_2160_60fps.mp4.mp4","enabled":false,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false},{"filename":"file:///home/hansana/Videos/Live Wallpapers/winter-water-stream-forest-moewalls-com.mp4","enabled":true,"duration":0,"customDuration":0,"playbackRate":0,"alternativePlaybackRate":0,"loop":false}]
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Nuvole/
+Image=/home/hansana/Pictures/Wallpapers/m0eyngvtwujg1.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][1][Wallpaper][org.kde.potd][General]
 FillMode=2
-Provider=simonstalenhag
 
 [Containments][2]
 activityId=
@@ -46,8 +48,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][21][Configuration]
-PreloadWeight=100
-popupHeight=451
+popupHeight=453
 popupWidth=810
 
 [Containments][2][Applets][21][Configuration][Appearance]
@@ -73,7 +74,6 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=100
 popupHeight=503
 popupWidth=665
 
@@ -93,8 +93,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][2][Applets][30][Configuration]
-PreloadWeight=100
-popupHeight=248
+popupHeight=240
 popupWidth=360
 
 [Containments][2][Applets][30][Configuration][General]
@@ -145,7 +144,6 @@ immutability=1
 plugin=org.kde.plasma.colorpicker
 
 [Containments][2][Applets][43][Configuration]
-PreloadWeight=90
 popupHeight=325
 popupWidth=324
 
@@ -154,8 +152,7 @@ DialogHeight=630
 DialogWidth=810
 
 [Containments][2][Applets][43][Configuration][General]
-history=#f5a4a5,#263238,#5685fc,#2297f4,#263238
-pickOnActivate=false
+history=#263238,#d8e6f1
 
 [Containments][2][Applets][6]
 immutability=1
@@ -168,7 +165,7 @@ immutability=1
 lastScreen=-1
 location=0
 plugin=org.kde.plasma.systemtray
-popupHeight=434
+popupHeight=432
 popupWidth=432
 wallpaperplugin=org.kde.image
 
@@ -188,9 +185,6 @@ plugin=org.kde.plasma.vault
 immutability=1
 plugin=org.kde.plasma.notifications
 
-[Containments][2][Applets][7][Applets][13][Configuration]
-PreloadWeight=95
-
 [Containments][2][Applets][7][Applets][14]
 immutability=1
 plugin=org.kde.kscreen
@@ -206,9 +200,6 @@ plugin=org.kde.plasma.devicenotifier
 [Containments][2][Applets][7][Applets][17]
 immutability=1
 plugin=org.kde.plasma.weather
-
-[Containments][2][Applets][7][Applets][17][Configuration]
-PreloadWeight=65
 
 [Containments][2][Applets][7][Applets][17][Configuration][ConfigDialog]
 DialogHeight=630
@@ -226,18 +217,12 @@ provider=bbcukmet
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
-[Containments][2][Applets][7][Applets][18][Configuration]
-PreloadWeight=100
-
 [Containments][2][Applets][7][Applets][18][Configuration][General]
 currentDetailsTab=details
 
 [Containments][2][Applets][7][Applets][19]
 immutability=1
 plugin=org.kde.plasma.volume
-
-[Containments][2][Applets][7][Applets][19][Configuration]
-PreloadWeight=70
 
 [Containments][2][Applets][7][Applets][19][Configuration][General]
 migrated=true
@@ -250,29 +235,17 @@ plugin=org.kde.plasma.printmanager
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
-[Containments][2][Applets][7][Applets][23][Configuration]
-PreloadWeight=31
-
 [Containments][2][Applets][7][Applets][24]
 immutability=1
 plugin=org.kde.plasma.brightness
-
-[Containments][2][Applets][7][Applets][24][Configuration]
-PreloadWeight=53
 
 [Containments][2][Applets][7][Applets][25]
 immutability=1
 plugin=org.kde.plasma.battery
 
-[Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=28
-
 [Containments][2][Applets][7][Applets][26]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
-
-[Containments][2][Applets][7][Applets][26][Configuration]
-PreloadWeight=0
 
 [Containments][2][Applets][7][Applets][8]
 immutability=1
@@ -281,9 +254,6 @@ plugin=org.kde.plasma.cameraindicator
 [Containments][2][Applets][7][Applets][9]
 immutability=1
 plugin=org.kde.plasma.clipboard
-
-[Containments][2][Applets][7][Applets][9][Configuration]
-PreloadWeight=65
 
 [Containments][2][Applets][7][ConfigDialog]
 DialogHeight=630
