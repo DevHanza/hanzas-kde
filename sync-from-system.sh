@@ -11,6 +11,7 @@ rsync -av --delete --mkpath \
 --exclude='Postman/' \
 --exclude='yay/' \
 --exclude='htop/' \
+--exclude='vlc/' \
 "$HOME/.config/" \
 "$REPO/.config/"
 
@@ -18,8 +19,12 @@ rsync -av --delete --mkpath \
 # Sync .local/share
 rsync -av --delete --mkpath \
 --exclude='Trash/' \
+--exclude='sddm/' \
 --exclude='flatpak/' \
 --exclude='kwalletd/' \
+--exclude='klipper/' \
+--exclude='libkunitconversion/' \ 
+--exclude='kactivitymanagerd/' \ 
 --exclude='kwrite/' \
 --exclude='plasma-systemmonitor/' \
 --exclude='TelegramDesktop/' \
