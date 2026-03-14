@@ -22,7 +22,7 @@ if ! command -v konsave &> /dev/null; then
 fi
 
 # Import and apply the config
-konsave -i "$COMPILED_FILE"
-konsave -a "$CONFIG_NAME"
+# konsave -i "$COMPILED_FILE"
+# konsave -a "$CONFIG_NAME"
 
 echo "Done! KDE config restored."
