@@ -10,6 +10,8 @@ hyprland like dotfiles for KDE Plasma
 | Screenshot #3                                                                                                                        | Screenshot #4                                                                                                                        |
 | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be2be8dd-1d36-4ac3-8440-1276b754526b" /> | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70b1b6fb-aa68-4823-b3ca-fd4451389338" /> |
 
+Wallpaper: [Link 1](https://4kwallpapers.com/nature/road-mountains-tarmac-sunrise-morning-macos-big-sur-stock-5k-3996.html) | [Link 2](https://www.reddit.com/r/wallpaper/comments/1rdz8qy/big_sur_6_3840x2160/)
+
 ## Installation
 
 ### Requirements
