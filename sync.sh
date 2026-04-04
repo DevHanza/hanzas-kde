@@ -11,6 +11,12 @@ then
     exit 1
 fi
 
+# Remove existing .knsv file if it exists
+if [ -f "$KNVS_FILE" ]; then
+    echo "Removing existing $KNVS_FILE..."
+    rm -f "$KNVS_FILE"
+fi
+
 # Installation
 
 echo "Saving KDE config..."
